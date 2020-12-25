@@ -1,0 +1,4 @@
+cd C:\Users\verno\Desktop\live_examples_d3v4-master
+
+
+C:\Users\verno\AppData\Local\Programs\Python\Python38-32\python.exe -m http.server 8000

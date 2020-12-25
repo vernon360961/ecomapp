@@ -1,0 +1,7 @@
+heroku login
+git add *
+git commit -m "Intial Launch"
+git config --global user.email "vernon360961@gmail.com"
+git push heroku master
+heroku ps:scale web=1
+
